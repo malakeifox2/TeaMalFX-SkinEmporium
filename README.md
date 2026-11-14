@@ -1,6 +1,6 @@
 <img width="1952" height="1521" alt="image" src="https://github.com/user-attachments/assets/715bcb0a-8d95-4dbf-8d6d-ee1ebf347bad" />
 
-Credits to OneSerendipity, Splitwirez, juniper7 for the original skins and resources (gonna edit the credits if i forgot later)
+Credits to EJSnow, OneSerendipity, Splitwirez, juniper7 for the original skins and resources (gonna edit the credits if i forgot later)
 
 
 Originally I Intended to do just an update to my WIndows 7 Dark Skin, However I realized the potential, I decided to have the skins I done into one file, mainly because ever since the release of my Dark 7 Skin I had done more.
