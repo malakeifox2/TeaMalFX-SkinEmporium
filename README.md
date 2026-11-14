@@ -5,7 +5,7 @@ Credits to EJSnow, OneSerendipity, Splitwirez, juniper7 for the original skins a
 
 Originally I Intended to do just an update to my WIndows 7 Dark Skin, However I realized the potential, I decided to have the skins I done into one file, mainly because ever since the release of my Dark 7 Skin I had done more.
       
-My motivations is to polish these skins for my use.
+My motivations is to polish these skins for my use. You can download them by clicking on the Skins folder and you can download whatever you like or get the zip in releases. Preferably I do it in the skins folder so I can update easily
 
 Windows 7 Dark
 - A dark mode version, WIP
