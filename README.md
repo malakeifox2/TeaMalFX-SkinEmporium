@@ -8,7 +8,7 @@ Originally I Intended to do just an update to my WIndows 7 Dark Skin, However I 
 My motivations is to polish these skins for my use. You can download them by clicking on the Skins folder and you can download whatever you like or get the zip in releases. Preferably I do it in the skins folder so I can update easily
 
 Windows 7 Dark
-- A dark mode version, WIP
+- A darker version of Aero 10.1. Going to switch names in the future
 
 Windows 7 (Aero 10.1) 
 - A variant of Windows 7 Dark, which is made for use with Aero 10.1
