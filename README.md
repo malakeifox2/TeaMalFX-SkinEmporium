@@ -1,3 +1,5 @@
+<img width="1952" height="1521" alt="image" src="https://github.com/user-attachments/assets/715bcb0a-8d95-4dbf-8d6d-ee1ebf347bad" />
+
 Credits to OneSerendipity, Splitwirez, juniper7 for the original skins and resources (gonna edit the credits if i forgot later)
 
 
