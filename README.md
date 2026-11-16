@@ -17,7 +17,7 @@ VISTALike Remastered
 - My polished version of the original Vistalike.
 
 VISTALike Dark
-- A dark mode version of the Vista Startmenu. I'm pretty sure im like the only one who attempted this.
+- A dark mode version of the Vista Startmenu. I'm pretty sure im like the only one who attempted this. (If the scrollbar is white, enable Vista Scrollbar. This will be fixed soon)
 
 Windows 8 and Windows 8 Dark Remastered
 - My polished takes on these two, they aren't accurate to Windows 8 RT's Start Menu, but they do certainly fit well with the taskbar and Window 10's too.
